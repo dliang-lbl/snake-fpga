@@ -1,5 +1,5 @@
 # snake-fpga
-A snake game implemented in fpga. Tested on Spartan 6 Nexy 3 board.
+A snake game implemented in Verilog. Tested on Spartan 6 Nexy 3 board.
 
 
 Demo Vedio:
